@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                      = 'EricRemoteImageView'
-  s.version                   = '2.0.0'
+  s.version                   = '2.1.0'
   s.summary                   = 'My First Pod.'
   s.homepage                  = 'https://github.com/eric2asd/RemoteImageView'
   s.source                    = { :git => s.homepage + '.git', :tag => s.version }
